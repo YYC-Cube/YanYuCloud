@@ -1,4 +1,4 @@
-# YYC³ AI Code 提示词系统架构总览
+# YYC³ AI Code
 
 > ***YanYuCloudCube***
 > *言启象限 | 语枢未来*

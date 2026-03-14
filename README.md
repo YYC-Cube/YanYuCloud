@@ -1,19 +1,4 @@
----
-@file: README.md
-@description: YYC³ AI 提示词系统架构总览 - 基于技术性分类的阶段化提示词系统
-@author: YanYuCloudCube Team <admin@0379.email>
-@version: v1.0.0
-@created: 2026-03-14
-@updated: 2026-03-14
-@status: stable
-@tags: prompt-architecture,system-design,yyc3-standards
-@category: architecture
-@language: zh-CN
-@design_type: prompt-system
-@review_status: approved
-@audience: developers,ai-engineers,project-managers
-@complexity: advanced
----
+# YYC³ AI Code 提示词系统架构总览
 
 > ***YanYuCloudCube***
 > *言启象限 | 语枢未来*
